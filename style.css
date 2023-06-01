@@ -17,6 +17,10 @@ h1#hello{
     color: blueviolet;
 }
 
+h1.red{
+    color: coral;
+}
+
 div.one + h1.red{
     color:yellow;
 }
